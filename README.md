@@ -1,5 +1,5 @@
-# DBC Voting App
-&lt;WORK IN PROGRESS> This is a project to build an application that operates the voting process for final projects at DBC
+# DBC Voting App <work in progress>
+This is a project to build an application that operates the voting process for final projects at DBC
 
 ###User Stories:
 As a user I want to be able to:
