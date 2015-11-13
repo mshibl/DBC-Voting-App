@@ -18,3 +18,6 @@ As a teacher I want to be able to:
 - Make changes to the teams
 - Publish the teams lists
 - Reject a project idea
+
+
+###Schema:
